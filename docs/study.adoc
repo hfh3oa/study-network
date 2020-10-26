@@ -59,7 +59,10 @@ image::../images/image2.jpg[width="50%"]
 == インフラ勉強会
 link:https://zenn.dev/kiyogon/articles/65c412ef938d6f3a0425/[インフラエンジニアのおしごと] に沿って進める
 
-=== 質問事項
+きれいにまとまってるからここにそんなに書くことが無い…
+
+=== 質問事項(あれば)
+
 
 == おまけ(勉強会風景)
 image::../images/image3.jpg[width="50%"]
