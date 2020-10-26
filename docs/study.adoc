@@ -51,3 +51,15 @@ link:https://hnavi.co.jp/knowledge/blog/functional-requirement/[参考]
 
 === マイクロサービスアーキテクチャ
 大きな1つのシステムを作るというよりも小さなサービスを組み合わせるマイクロサービスアーキテクチャが流行っている。
+
+=== イメージ図
+image::../images/image1.jpg[]
+image::../images/image2.jpg[]
+
+== インフラ勉強会
+link:https://zenn.dev/kiyogon/articles/65c412ef938d6f3a0425/[インフラエンジニアのおしごと] に沿って進める
+
+=== 質問事項
+
+== おまけ(勉強会風景)
+image::../images/image3.jpg[]
